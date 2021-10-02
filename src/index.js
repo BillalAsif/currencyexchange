@@ -8,7 +8,7 @@ import Navbar from './components/navbar.jsx';
 
 
 ReactDOM.render(
-  <div><Navbar />, <Counter /></div>,
+  <div><Counter /></div>,
   document.getElementById('root')
 );
 
